@@ -1,6 +1,10 @@
 ### ⛓️ Welcome, I’m Derick ♛
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7btZ1Gm7Z5CzZP7W/giphy.gif" width="600">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 font=Orbitron&
 size=30&
