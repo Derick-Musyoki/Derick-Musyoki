@@ -1,4 +1,4 @@
-### ⛓️ Hello👋, I’m D3rick♛
+### ⛓️ Hello👋, I’m D3rick Spoiler
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
