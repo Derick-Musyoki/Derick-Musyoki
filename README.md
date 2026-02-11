@@ -54,6 +54,16 @@ lines=Blockchain+Developer;Smart+Contracts+Engineer;Web3+Security;Building+Trust
   <img src="https://img.shields.io/badge/Truffle-0D1117?style=for-the-badge&logo=truffle&logoColor=5E464D"/>
 </p>
 
+## 💻 General Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Derick-Musyoki&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
 
 
 ### 🔗 **Connect With Me** <p align="center"> <a href="https://x.com/derick_spoiler" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"> </a> <a href="https://www.instagram.com/derick_spoiler?igsh=MXhwb2RxNXZqdmh0MA==" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"> </a> </p> 
