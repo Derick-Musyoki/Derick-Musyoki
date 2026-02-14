@@ -66,7 +66,7 @@ lines=Blockchain+Developer;Smart+Contracts+Engineer;Web3+Security;Building+Trust
 
 
 
-### 🔗 **Connect With Me** <p align="center"> <a href="https://x.com/derick_spoiler" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"> </a> <a href="https://www.instagram.com/derick_spoiler?igsh=MXhwb2RxNXZqdmh0MA==" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"> </a> </p> 
+### 🔗 **Connect With Me** <p align="center"> <a href="https://x.com/derick_spoiler" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"> </a> <a href="https://www.instagram.com/derick_spoiler?igsh=MXhwb2RxNXZqdmh0MA==" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"> </a>  <a href="https://derick-spoiler-portfolio.vercel.app/" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="100"></a></p> 
 
 <p align="center">
   <strong>⚡ Building Trustless Systems • Blockchain Native ⚡</strong>
