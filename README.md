@@ -1,5 +1,16 @@
 ### ⛓️ Hello👋, I’m D3rick Spoiler
 
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+/*
+ * @title ProfileSampleContract
+ * @author Derick
+ * @notice A simple smart contract demonstrating core Solidity concepts
+ */
+
+contract ProfileSampleContract {
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 font=Orbitron&
