@@ -1,29 +1,15 @@
-### ⛓️ Hello👋, I’m D3rick Spoiler
+>>DerickSpoiler>>>>>>>>>
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+// Web3. Software. Innovation //
 
-/*
- * @title ProfileSampleContract
- * @author Derick
- * @notice A simple smart contract demonstrating core Solidity concepts
- */
-
-contract ProfileSampleContract {
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Orbitron&
-size=30&
-duration=4500&
-color=00FFAA&
-center=true&
-vCenter=true&
-width=900&
-lines=Blockchain+Developer;Smart+Contracts+Engineer;Web3+Security;Building+Trustless+Systems" />
-</p>
-
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxoZDZ6Ymtla2J1MWtmNDhmMjdqa3AwcnI4eTFweDRidGQzbnl0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/200.webp" width="800" alt="Blockchain"/> </p>
+## _SYSTEM STATUS: BUILDING_.
+{
+  "identity": "Derick | Blockchain Developer",
+  "status": "Active Learner & Smart Contract Engineer",
+  "focus": ["Solidity", "Web3 Apps", "Secure Digital Marketplaces"],
+  "stack": ["Java", "JavaScript", "Blockchain", "Contractsecurity Basics"],
+  "mission": "Designing Trust-Driven & Decentralized Systems"
+}
 
 ## 🧠 About Me
 - ⛓️ Blockchain & Web3 developer  
